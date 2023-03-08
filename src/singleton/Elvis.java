@@ -1,10 +1,10 @@
-package singleton;
+package src.singleton;
 
 public class Elvis {
 
     private static Elvis instance=new Elvis();
 
-    public Elvis() {
+    private Elvis() {
     }
 
     public static Elvis getInstance(){

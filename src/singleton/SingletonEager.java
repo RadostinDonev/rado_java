@@ -1,4 +1,4 @@
-package singleton;
+package src.singleton;
 
 public class SingletonEager {
     public static void main(String[] args) {
